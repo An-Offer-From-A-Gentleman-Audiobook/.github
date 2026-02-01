@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="google-site-verification" content="dHDYxCCE8lnHf4DSRnZFmTHtmZqwpoGb-Zc5OlA4COU" />
     <meta charset="UTF-8">
     <meta name="description" content="Julia Quinn An Offer from a Gentleman Audiobook is a captivating Bridgerton romance inspired by Cinderella, perfect for fans of historical romance audiobooks.">
     <meta name="keywords" content="Julia Quinn An Offer from a Gentleman Audiobook, Bridgerton audiobook, historical romance audiobook">
