@@ -6,7 +6,6 @@
     <meta name="keywords" content="Julia Quinn An Offer from a Gentleman Audiobook, Bridgerton audiobook, historical romance audiobook">
     <meta name="author" content="Your Website Name">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Julia Quinn An Offer from a Gentleman Audiobook</title>
 </head>
 <body>
 
