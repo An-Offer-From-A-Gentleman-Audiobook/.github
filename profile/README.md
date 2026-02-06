@@ -1,65 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Discover the enchanting 'An Offer from a Gentleman' audiobook by Julia Quinn. Dive into the Bridgerton series with this captivating Regency romance narrated beautifully. Listen now on Audible, Apple Books, or more.">
-    <meta name="keywords" content="An Offer from a Gentleman audiobook, Julia Quinn audiobook, Bridgerton series audiobook, Regency romance audiobook, Julia Quinn books">
-    <meta name="robots" content="index, follow">
-    <title>An Offer from a Gentleman Audiobook by Julia Quinn - Listen to the Bridgerton Romance</title>
-    <!-- Open Graph Meta Tags for Social Sharing -->
-    <meta property="og:title" content="An Offer from a Gentleman Audiobook by Julia Quinn">
-    <meta property="og:description" content="Experience the magic of Julia Quinn's 'An Offer from a Gentleman' in audiobook format. Perfect for fans of Bridgerton and Regency-era tales.">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://yourdomain.com/"> <!-- Replace with your domain -->
-    <meta property="og:image" content="https://yourdomain.com/images/an-offer-from-a-gentleman-cover.jpg"> <!-- Replace with actual image URL -->
-    <!-- Twitter Card Meta Tags -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="An Offer from a Gentleman Audiobook by Julia Quinn">
-    <meta name="twitter:description" content="Immerse yourself in the world of Bridgerton with this audiobook by Julia Quinn.">
-    <meta name="twitter:image" content="https://yourdomain.com/images/an-offer-from-a-gentleman-cover.jpg">
-    <!-- Schema Markup for Book/Audiobook -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Audiobook",
-      "name": "An Offer from a Gentleman",
-      "author": {
-        "@type": "Person",
-        "name": "Julia Quinn"
-      },
-      "description": "A Cinderella-inspired tale in the Bridgerton series, where Sophie Beckett meets her prince at a masquerade ball.",
-      "genre": "Romance",
-      "inLanguage": "en",
-      "publisher": "HarperAudio",
-      "datePublished": "2001-07-03",
-      "isbn": "9780062353658",
-      "url": "https://yourdomain.com/",
-      "image": "https://yourdomain.com/images/an-offer-from-a-gentleman-cover.jpg",
-      "offers": {
-        "@type": "Offer",
-        "price": "14.99",
-        "priceCurrency": "USD",
-        "availability": "https://schema.org/InStock",
-        "seller": {
-          "@type": "Organization",
-          "name": "Audible"
-        }
-      }
-    }
-    </script>
-    <!-- Basic CSS for Mobile-Friendly Design -->
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; color: #333; }
-        header { background: #f4f4f4; padding: 20px; text-align: center; }
-        main { max-width: 1200px; margin: 20px auto; padding: 0 20px; }
-        h1, h2 { color: #0056b3; }
-        img { max-width: 100%; height: auto; }
-        .cta-button { display: inline-block; padding: 10px 20px; background: #007bff; color: white; text-decoration: none; border-radius: 5px; }
-        footer { background: #f4f4f4; padding: 10px; text-align: center; }
-        @media (max-width: 768px) { main { padding: 0 10px; } }
-    </style>
-</head>
 <body>
     <header>
         <h1>An Offer from a Gentleman Audiobook by Julia Quinn</h1>
@@ -114,4 +52,3 @@
         <p>&copy; 2026 Your Site Name. All rights reserved. <a href="/privacy-policy">Privacy Policy</a> | <a href="/sitemap.xml">Sitemap</a></p>
     </footer>
 </body>
-</html>
